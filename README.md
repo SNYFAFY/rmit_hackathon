@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/55204f85-7a8a-462f-8afd-26e2a92d7d1a
+
 # ClubVault — Dual-Control Expense Desk
 
 ![Prototype status](https://img.shields.io/badge/prototype-SIMULATED%20TideCloak-orange)
